@@ -1,5 +1,5 @@
-import Home from '../pages/Home';
-import NotFound from '../pages/NotFound';
+import CanvasPage from '@/components/pages/CanvasPage';
+    import NotFoundPage from '@/components/pages/NotFoundPage';
 
 export const routes = {
   canvas: {
@@ -7,7 +7,8 @@ export const routes = {
     label: 'Canvas',
     path: '/canvas',
     icon: 'Palette',
-    component: Home
+icon: 'Palette',
+        component: CanvasPage
   }
 };
 

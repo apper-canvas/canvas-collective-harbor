@@ -3,8 +3,8 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import { AnimatePresence } from 'framer-motion';
 import Layout from './Layout';
-import Home from './pages/Home';
-import NotFound from './pages/NotFound';
+import CanvasPage from '@/components/pages/CanvasPage';
+    import NotFoundPage from '@/components/pages/NotFoundPage';
 import { routes, routeArray } from './config/routes';
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
                   element={<route.component />}
                 />
               ))}
-              <Route path="*" element={<NotFound />} />
+<Route path="*" element={<NotFoundPage />} />
             </Route>
           </Routes>
         </AnimatePresence>
