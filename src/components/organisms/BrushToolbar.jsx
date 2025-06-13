@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Brush, Edit3, Airplay, Eraser, Bucket, Minus, Plus } from 'lucide-react'
+import { Brush, Edit3, Airplay, Eraser, PaintBucket, Minus, Plus } from 'lucide-react'
 import BrushToolButton from '@/components/molecules/BrushToolButton'
 import RangeSlider from '@/components/molecules/RangeSlider'
 
@@ -39,7 +39,7 @@ const BrushToolbar = ({
     },
     {
       type: 'fill',
-      icon: Bucket,
+icon: PaintBucket,
       label: 'Fill',
       description: 'Fill area with color'
     }
