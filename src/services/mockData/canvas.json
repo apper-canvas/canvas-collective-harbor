@@ -1,0 +1,54 @@
+{
+  "width": 1200,
+  "height": 800,
+  "backgroundColor": "#FFFFFF",
+  "strokes": [
+    {
+      "id": "stroke-1",
+      "userId": "user-2",
+      "tool": "pencil",
+      "color": "#EC4899",
+      "size": 3,
+      "opacity": 100,
+      "points": [
+        {"x": 100, "y": 100},
+        {"x": 105, "y": 102},
+        {"x": 110, "y": 105},
+        {"x": 120, "y": 110},
+        {"x": 135, "y": 115}
+      ],
+      "timestamp": 1703097600000
+    },
+    {
+      "id": "stroke-2",
+      "userId": "user-3",
+      "tool": "marker",
+      "color": "#8B5CF6",
+      "size": 8,
+      "opacity": 80,
+      "points": [
+        {"x": 200, "y": 150},
+        {"x": 210, "y": 155},
+        {"x": 225, "y": 160},
+        {"x": 240, "y": 165},
+        {"x": 255, "y": 170}
+      ],
+      "timestamp": 1703097660000
+    },
+    {
+      "id": "stroke-3",
+      "userId": "user-2",
+      "tool": "airbrush",
+      "color": "#22C55E",
+      "size": 15,
+      "opacity": 60,
+      "points": [
+        {"x": 300, "y": 200},
+        {"x": 305, "y": 205},
+        {"x": 310, "y": 210},
+        {"x": 315, "y": 215}
+      ],
+      "timestamp": 1703097720000
+    }
+  ]
+}

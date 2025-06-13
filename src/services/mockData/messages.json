@@ -1,0 +1,32 @@
+[
+  {
+    "id": "msg-1",
+    "userId": "user-2",
+    "text": "Hey everyone! Let's create something amazing together 🎨",
+    "timestamp": 1703097600000
+  },
+  {
+    "id": "msg-2",
+    "userId": "user-3",
+    "text": "Love the pink strokes! Great start Alex",
+    "timestamp": 1703097650000
+  },
+  {
+    "id": "msg-3",
+    "userId": "user-4",
+    "text": "I'm working on some background elements with the airbrush",
+    "timestamp": 1703097700000
+  },
+  {
+    "id": "msg-4",
+    "userId": "user-2",
+    "text": "This is looking fantastic! The colors blend really well",
+    "timestamp": 1703097750000
+  },
+  {
+    "id": "msg-5",
+    "userId": "user-3",
+    "text": "Should we add some details in the center area?",
+    "timestamp": 1703097800000
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user-2",
+    "name": "Alex",
+    "cursorColor": "#EC4899",
+    "cursorPosition": {"x": 150, "y": 200},
+    "activeTool": "pencil"
+  },
+  {
+    "id": "user-3",
+    "name": "Sam",
+    "cursorColor": "#8B5CF6",
+    "cursorPosition": {"x": 300, "y": 180},
+    "activeTool": "marker"
+  },
+  {
+    "id": "user-4",
+    "name": "Jordan",
+    "cursorColor": "#22C55E",
+    "cursorPosition": {"x": 450, "y": 250},
+    "activeTool": "airbrush"
+  }
+]
